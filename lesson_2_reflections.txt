@@ -1,9 +1,16 @@
 What happens when you initialize a repository? Why do you need to do it?
 
-git creates a hidden folder in the current directory, which will keep track of the revision history for files in that directory. You need to run the init or else Git doesn't know to track that directory.
+git creates a hidden folder in the current directory, which will keep track of the revision history 
+for files in that directory. You need to run the init or else Git doesn't know to track that directory.
 
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
-The staging area lets you select specific file/s to be added to a commit, instead of adding every file that has been modified in a working directory. It gives the user some extra flexibility in what they'd like to place in each commit. 
+The staging area lets you select specific file/s to be added to a commit, instead of adding every file that has been 
+modified in a working directory. It gives the user some extra flexibility in what they'd like to place in each commit. 
 
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+The staging area is a good place to check what changes you have made one last time before
+making a commit, to make sure the changes make sense within one commit. 
