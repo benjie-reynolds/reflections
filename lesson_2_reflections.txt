@@ -14,3 +14,10 @@ How can you use the staging area to make sure you have one commit per logical ch
 
 The staging area is a good place to check what changes you have made one last time before
 making a commit, to make sure the changes make sense within one commit. 
+
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+1. When testing out a new feature that you want to keep separate from the main branch.
+2. Different Languages
+3. Trying to fix bugs without making too many commits to the master branch. 
