@@ -52,3 +52,5 @@ Now that you have your workspace set up, what do you want to try using Git for?
 
 for my job!
 
+
+I'm adding this line as a test for trying to make a commit message in Notepad++
