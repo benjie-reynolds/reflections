@@ -27,3 +27,8 @@ What is the result of merging two branches together? Why do we represent it in t
 
 Merging two branches combines two separate branches in order of time of each commit. Files that were changed in both branches will receive the proper changes from both branches. The diagram representation helps visualize where each commit is going to end up in the merged branch.
 
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Pros: Saves time, still reversible
+Cons: have to trust that its doing the right thing and not erasing crucial code
+
