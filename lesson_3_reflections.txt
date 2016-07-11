@@ -13,3 +13,13 @@ could cause some unwanted loss of your work. Keeping things manual keeps the use
 in control of the data.
 
 
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+Forks - Good for cloning someone elses repository to your own remote account, and giving credit to the
+original author. You'd use this if you cannot edit the original remote repo.
+
+Clones - Clones are local and are good for working offline and then can be pushed back to the remote repo.
+
+Branches - Good for working on new segments of code or something that may not be ready to be seen.
+Somewhat like a rough draft.
+
