@@ -4,3 +4,12 @@ A remote repository is beneficial for allowing others to collaborate on your pro
 as well as being able to access your files from anywhere on any device. It also can
 serve as a backup.
 
+
+Why might you want to always pull changes manually rather than having Git automatically 
+stay up-to-date with your remote repository?
+
+If you're working on something new locally, the automatic pulls from the remote repo
+could cause some unwanted loss of your work. Keeping things manual keeps the user
+in control of the data.
+
+
