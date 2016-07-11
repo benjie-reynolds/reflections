@@ -23,3 +23,9 @@ Clones - Clones are local and are good for working offline and then can be pushe
 Branches - Good for working on new segments of code or something that may not be ready to be seen.
 Somewhat like a rough draft.
 
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+This could be useful in keeping your local clone up to date to prevent conflicts. If you wait too long
+to pull from the remote, you may end up having many more conflicts than you want to deal with.
+
+
