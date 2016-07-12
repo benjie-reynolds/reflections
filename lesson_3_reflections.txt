@@ -29,3 +29,7 @@ This could be useful in keeping your local clone up to date to prevent conflicts
 to pull from the remote, you may end up having many more conflicts than you want to deal with.
 
 
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+I would probably use Google docs or dropbox. It could be easier for those who don't want to learn a new system,
+but it would not be as well organized and managed as it could be with git and github.
+
